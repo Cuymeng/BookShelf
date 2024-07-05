@@ -1,7 +1,9 @@
 import Link from 'next/link';
 
+import Narbar from '@/components/navbar';
+
 export default function Home() {
   return (
-    <Link href="/books">books</Link>
+    <p>Hello world</p>
   );
 }

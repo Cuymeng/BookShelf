@@ -9,10 +9,12 @@ export default function Home() {
             src={myImg.src}
             className="max-w-sm rounded-lg shadow-2xl" />
           <div>
-            <h1 className="text-5xl font-bold">Box Office News!</h1>
+            <h1 className="text-5xl font-bold">New Release</h1>
+            <h2>This Dark Road to mercy</h2>
             <p className="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-              quasi. In deleniti eaque aut repudiandae et a id nisi.
+              Wade disappeared on us when I was nine years old, and then he showed up out of nowhere the year I turned twelve...
+              After their mother unexpectedly dies, Easter Quilby and her six-year-old sister, Ruby, are stolen away from their foster home by the father they haven't seen in years.
+              Brady Weller, their court-appointed guardian, goes after them, suspecting Wade of having taken part in a recent high-profile robbery. But he's not the only one on their tail, as Robert Pruitt, a mercurial and deadly hunter, is determined to get to them first and claim his due.
             </p>
             <button className="btn btn-primary">$10 - Purchase</button>
             <button className="btn btn-primary">Add to cart</button>
